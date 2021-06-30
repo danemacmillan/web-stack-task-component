@@ -14,7 +14,7 @@ Example strings that will result in a `Valid` state:
 - "foo"
 - "112"
 
-Example strings that will result in an `Invalid` state:
+Example strings that will result in an `Invalid` state (note the whitespaces):
 
 - "foobar!"
 - "    foobar123"
@@ -37,7 +37,7 @@ Everything will be noticed, but certain details expose a deeper expertise or app
 - Graceful handling of excessively long text or unsually cramped dimensions via CSS
 - JavaScript event handling
 - Conciseness across the stack
-- Documentation
+- Documentation and use of `git`
 
 ### Provide source and host the result
 
