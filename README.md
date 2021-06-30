@@ -36,7 +36,7 @@ Everything will be noticed, but certain details expose a deeper expertise or app
 - Use of HTML semantics
 - Graceful handling of excessively long text or unsually cramped dimensions via CSS
 - JavaScript event handling
-- Conciseness across the stack
+- Naming of things and conciseness across the stack
 - Documentation and use of `git`
 
 ### Provide source and host the result
