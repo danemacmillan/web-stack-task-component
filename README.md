@@ -7,9 +7,8 @@ The purpose of this task is to demonstrate well-rounded knowledge of core Web te
 
 Create a dynamic input that accepts only `letters` and `numbers`, with a minimum length of `3`. This dynamic input will validate the string typed into it and provide immediate, inline feedback to the end-user. A minimum of four states, being `Default`, `Focus`, `Valid`, and `Invalid` must be covered; an optional fifth state, `Limbo`, can be provided, representing the time between a string being typed into the input and its validated state of either `Valid` or `Invalid`. Note that the `Default` and `Focus` states are simply states that exist before any focus is provided or text typed and validated. 
 
-```
 > :warning: **Note**: Use of vanilla JavaScript is not required. However, simply using a library or framework that essentially does this by providing all the necessary tools, markup, or styling "out of the box" are forbidden. In other words, using `jQuery` for its selector methods or DOM manipulation is not the same as using a library or library plugin that is purpose-built for form validation.
-```
+
 
 Example strings that will result in a `Valid` state:
 
