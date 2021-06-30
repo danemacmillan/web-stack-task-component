@@ -21,7 +21,7 @@ Example strings that will result in an `Invalid` state (note the whitespaces):
 - "fo"
 - "---fo;bar "
 
-The strings provided are by no means exhaustive, and based on the validation requirements provided, the actual combination of strings that can be `Valid` or `Invalid` is incalculaby large.
+The strings provided are by no means exhaustive, and based on the validation requirements provided, the actual combination of strings that can be `Valid` or `Invalid` are incalculaby large.
 
 ### The end result
 
